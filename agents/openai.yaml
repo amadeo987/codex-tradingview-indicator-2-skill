@@ -1,0 +1,6 @@
+interface:
+  display_name: "TradingView Indicator Builder 2"
+  short_description: "Pine z rekonstrukcją reguł i weryfikacją wykresu"
+  default_prompt: "Użyj $tradingview-indicator-2, odtwórz reguły tej referencji i zbuduj sprawdzony wskaźnik Pine."
+policy:
+  allow_implicit_invocation: true
