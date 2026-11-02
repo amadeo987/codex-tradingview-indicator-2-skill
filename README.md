@@ -2,8 +2,6 @@
 
 An independent Codex skill for building and checking Pine Script indicators from written rules, screenshots, and chart examples. Version 2 adds source-to-rule reconstruction, signal-timing checks, meaningful counterexamples, and separate verification of saved source, applied studies, and chart layouts.
 
-The [original skill](https://github.com/amadeo987/codex-tradingview-indicator-skill) remains separate. Installing version 2 does not replace it.
-
 ## Install on a server with Codex CLI
 
 Requirements: Codex CLI, Git, GitHub access, and a writable user skill directory.
